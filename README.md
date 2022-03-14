@@ -2,7 +2,7 @@
 - 👀 I’m interested in science and art.
 - 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on some great ideas!
-- 📫 How to reach me ... 
+- 📫 kristina.petrovic23@gmail.com
 
 <!---
 Petrovic-Kristina/Petrovic-Kristina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
